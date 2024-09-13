@@ -1,16 +1,17 @@
 olá 👋
+🚀 Bem-vindo ao meu GitHub! 🚀
 
-<!--
-**Anjos-7/Anjos-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Sobre Mim:
 
-Here are some ideas to get you started:
+Jovem desenvolvedor em busca de criar soluções criativas e desafiadoras.
+💻 Projetos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore minhas criações em HTML, CSS, e JavaScript.
+Projetos variados e inovadores em desenvolvimento web.
+📈 O Que Esperar:
+
+Inovações empolgantes e desafios.
+Experimentos e melhorias contínuas.
+🤝 Colabore:
+
+Sinta-se à vontade para contribuir e acompanhar minha jornada.
