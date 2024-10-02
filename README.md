@@ -19,4 +19,4 @@ Experimentos e melhorias contínuas.
 
 Sinta-se à vontade para contribuir e acompanhar minha jornada.
 
-<img src="https://media.giphy.com/media/8P1quMoAzyG6VdRGR7/giphy.gif" width="240" height="240" />
+<img src="https://media.giphy.com/media/8P1quMoAzyG6VdRGR7/giphy.gif" width="200" height="200" />
