@@ -7,8 +7,10 @@ olá 👋
 Jovem desenvolvedor em busca de criar soluções criativas e desafiadoras.
 💻 Projetos:
 
-Explore minhas criações em HTML, CSS, e JavaScript.
-Projetos variados e inovadores em desenvolvimento web.
+Explore minhas criações.
+Projetos variados e inovadores
+
+
 📈 O Que Esperar:
 
 Inovações empolgantes e desafios.
@@ -31,3 +33,4 @@ Sinta-se à vontade para contribuir e acompanhar minha jornada.
   <span></span>
 </div>
 
+<iframe src="https://giphy.com/embed/8P1quMoAzyG6VdRGR7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/8P1quMoAzyG6VdRGR7">via GIPHY</a></p>
