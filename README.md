@@ -5,8 +5,7 @@ olá 👋
 🔍 Sobre Mim:
 
 Jovem desenvolvedor em busca de criar soluções criativas e desafiadoras.
-💻 Projetos:
-
+💻
 Explore minhas criações.
 Projetos variados e inovadores
 
